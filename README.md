@@ -1,3 +1,5 @@
+<img width="700px" src ="https://pbs.twimg.com/profile_banners/1272952482344456193/1592331777/1500x500">
+
 ### Hi there 👋
 🌱 I’m currently learning Web Design
 <!--
