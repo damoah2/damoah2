@@ -1,4 +1,4 @@
-<img width="900px" src ="https://pbs.twimg.com/profile_banners/1272952482344456193/1592331777/1500x500">
+<img width="900px" src ="https://images.pexels.com/photos/374147/pexels-photo-374147.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260">
 
 ### Hi there 👋
 🌱 I’m currently learning Web Design
