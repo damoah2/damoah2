@@ -1,7 +1,7 @@
 <img width="900px" src ="https://images.pexels.com/photos/5193713/pexels-photo-5193713.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260">
 
 ### Hi there 👋
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning Web Design and Development
 <!--
 **damoah2/damoah2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
