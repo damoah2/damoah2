@@ -1,6 +1,7 @@
 <img width="900px" src ="https://images.pexels.com/photos/5193713/pexels-photo-5193713.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260">
 
 ### Hi there 👋
+I am a passionate web developer with proficiency in HTML5, CSS3, Bootstrap5, JavaScript, JSON, Python, PHP, and MySQL. My goal is to create beautiful, functional, and user-friendly websites that deliver value to businesses and users. With a solid understanding of web development principles and a keen eye for design, I stay up-to-date with the latest technologies and trends in the industry. I am a detail-oriented and collaborative team player who communicates technical concepts effectively. I have experience working on diverse projects and am committed to delivering high-quality work that adds value to clients' businesses. Continuous learning, experimentation, and improvement are key to my success. Let's discuss how I can help bring your web projects to life.
 <!--
 **damoah2/damoah2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
