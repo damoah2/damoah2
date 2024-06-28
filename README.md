@@ -1,5 +1,5 @@
 ### 👨🏿‍💻 About
-Experienced in diverse projects across various industries, I am committed to delivering high-quality work that adds value to clients' endeavors. A collaborative team player, I excel in effectively communicating technical concepts and continuously improving my skills. With adaptability and a diverse skill set, I am ready to contribute to the success of any type of project. Let's connect and explore how I can bring your vision to life.
+Experienced Full Stack Developer with a proven track record in end-to-end web development and technical support. Proficient in HTML5, CSS3, JavaScript, Python, and MySQL with hands-on experience in optimizing website performance and enhancing user experience. Skilled in project management, team collaboration, and troubleshooting. Certified in CompTIA Security+ with expertise in implementing robust security solutions.
 
 ### 💻 Languages and Tools
 
