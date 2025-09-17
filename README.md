@@ -1,5 +1,5 @@
 ### 👨🏿‍💻 About
-Experienced Full Stack Developer with a proven track record in end-to-end web development and technical support. Proficient in HTML5, CSS3, JavaScript, Python, and MySQL with hands-on experience in optimizing website performance and enhancing user experience. Skilled in project management, team collaboration, and troubleshooting. Certified in CompTIA Security+ with expertise in implementing robust security solutions.
+Software Developer with hands-on experience building and optimizing web applications, data-driven projects, and secure solutions. Skilled in Python, JavaScript, SQL, HTML5, and CSS3, with a strong foundation in full stack development and data analytics. Certified in CompTIA Security+, AWS Cloud Practitioner, and Data Science Fundamentals, bringing proven ability to collaborate with cross-functional teams, deliver under strict deadlines, and translate technical solutions into measurable impact.
 
 ### 💻 Languages and Tools
 
