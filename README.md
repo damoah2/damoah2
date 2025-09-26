@@ -1,5 +1,5 @@
 ### 👨🏿‍💻 About
-Software Developer with hands-on experience building and optimizing web applications, data-driven projects, and secure solutions. Skilled in Python, JavaScript, SQL, HTML5, and CSS3, with a strong foundation in full stack development and data analytics. Certified in CompTIA Security+, AWS Cloud Practitioner, and Data Science Fundamentals, bringing proven ability to collaborate with cross-functional teams, deliver under strict deadlines, and translate technical solutions into measurable impact.
+Adaptable and detail-oriented Software Developer with a background in full stack web development, IT support, and technical operations. Skilled in designing, developing, and deploying responsive web applications, as well as analyzing data and implementing secure solutions. Strong foundation in Python, SQL, JavaScript, HTML5, CSS3, and PHP. Experienced in collaborating with teams, solving complex technical challenges, and ensuring compliance with high standards. Certified in CompTIA Security+, AWS Cloud Practitioner, Data Science Fundamentals, and CRCST. Known for blending problem-solving skills, technical expertise, and cross-disciplinary experience to deliver solutions that improve performance, enhance user experience, and support business goals.
 
 ### 💻 Languages and Tools
 
