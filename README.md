@@ -1,6 +1,3 @@
-### 👨🏿‍💻 About
-Adaptable and detail oriented Software Developer with a background in full stack web development, IT support, and technical operations. Skilled in designing, developing, and deploying responsive web applications, as well as analyzing data and implementing secure solutions. Strong foundation in Python, SQL, JavaScript, HTML5, CSS3, and PHP. Experienced in collaborating with teams, solving complex technical challenges, and ensuring compliance with high standards. Certified in CompTIA Security+, AWS Cloud Practitioner, and Data Science Fundamentals.
-
 ### 💻 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
